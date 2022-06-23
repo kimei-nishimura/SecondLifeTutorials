@@ -6,5 +6,5 @@ Download a client, create an account and come see what there is to do! From ques
 Contents:
 - [Glossary](glossary.md)
 - [Tutorial Introduction](tutorials/intro.md)
-- [Bodies and Heads](tutorials/body and head.md)
-- [RLV and OpenCollar](tutorials/rlv and opencollar.md)
+- [Bodies and Heads](tutorials/body%20and%20head.md)
+- [RLV and OpenCollar](tutorials/rlv%20and%20opencollar.md)
