@@ -8,7 +8,7 @@ an RLV Relay allows other objects within the world to take control over your ava
 
 OpenCollar is just one option, and the scripts used to make the RLV functions of the collar can be put into other devices such as rings, cuffs, earrings, or anything you can wear or attach. There are also HUD-based relays such as ***Satomi's MultiRelay***[^3] or the ***Mars Relay***[^4].
 
-[^1]: https://opencollar.cc/
-[^2]: http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201
-[^3]: https://marketplace.secondlife.com/p/Satomis-MultiRelay/1471924
-[^4]: https://marketplace.secondlife.com/p/Mars-Relay/15330382
+[^1]: <https://opencollar.cc/>
+[^2]: <http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201>
+[^3]: <https://marketplace.secondlife.com/p/Satomis-MultiRelay/1471924>
+[^4]: <https://marketplace.secondlife.com/p/Mars-Relay/15330382>
