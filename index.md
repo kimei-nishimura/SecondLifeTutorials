@@ -8,5 +8,5 @@ Contents:
 
 - [Glossary](glossary.md)
 - [Tutorial Introduction](tutorials/intro.md)
-- [Bodies and Heads](tutorials/body%20and%20head.md)
-- [RLV and OpenCollar](tutorials/rlv%20and%20opencollar.md)
+- [Bodies and Heads](tutorials/body-and-head.md)
+- [RLV and OpenCollar](tutorials/rlv-and-opencollar.md)
