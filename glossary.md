@@ -1,6 +1,6 @@
 # Glossary of terms used in Second Life
 
-- ***Viewer*** - Linen Labs' term for the client software, installed on your computer.
+- ***Viewer*** - Linden Labs' term for the client software, installed on your computer.
 - ***Avatar or Avi*** - the player character you create!
 - ***Simulation or sim*** - a virtual world/environment/land within Second Life.  There are many.
 - ***in-world*** - referring to anything that happens within the Second Life environment.
