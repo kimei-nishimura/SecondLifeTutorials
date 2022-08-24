@@ -6,7 +6,7 @@ This is not to be confused with "bio" horse barns or avatars such as "My Little 
 
 Ponies can participate in training and events such as slalom, pulling a cart, playing polo, and other pony-like activities.  Some ponies are also grooms, trainers and owners, spending time taking care of their stable's human pony "herd".  To really get something out of pony play, at least a bit of Role Playing (RP) is needed!
 
-The list of stables below is by no means complete, and is compiled from the author's personal experiences visiting and exploring.  Stables come and go in Second Life, some are public while other are private, and often they are only occupied during the EU day and evening hours.  There are a few stables that are active at other times though.
+The list of stables below is by no means complete, and is compiled from the author's personal experiences visiting and exploring.  Stables come and go in Second Life, some are public while others are private, and often they are only occupied during the EU day and evening hours.  There are a few stables that are active at other times though.
 
 ## Known "human pony" stables in Second Life
 
