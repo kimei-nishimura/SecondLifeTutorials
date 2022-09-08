@@ -15,7 +15,7 @@ The list of stables below is by no means complete, and is compiled from the auth
 | Stable | Location | Website | Notes |
 | ------ | -------- | ------- | ----- |
 | Ponies from Space (PFS) | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Bella%20Amicizia/111/6/33) | <https://wiki.ponies-from.space/> |
-| Tall Tails | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Tall%20Tails%20Meadow/90/183/26) | <https://wiki.tt.suspicious.services/> |
+| Tall Tails | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Tall%20Tails%20Meadow/90/183/26) | <https://wiki.talltails.fun/> |
 |Stones N Rubber (sNr) | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Kinky%20Magic/78/4/21) | <https://wiki.stonesnrubber.com/> |
 | 8 Pines | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Hidden%20Isle/203/101/34) | |
 | Bridled by Force | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Gordburg/13/134/23) | |
