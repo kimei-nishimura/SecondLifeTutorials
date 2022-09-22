@@ -4,12 +4,13 @@ Second Life is an online, 3D experience platform that allows a user to interact 
 
 Download a client, create an account and come see what there is to do! From quests to ski resorts to fantasy worlds, there's something in Second Life for everyone!
 
-## Contents:
+## Contents
 
 - [Glossary](glossary.md)
 - [Tutorial Introduction](tutorials/intro.md)
-- [Bodies and Heads](tutorials/body-and-head.md)
 - [RLV and OpenCollar](tutorials/rlv-and-opencollar.md)
+- [Bodies and Heads](tutorials/body-and-head.md) - in progress
 
 ## Specialty kinks
+
 - [Ponyplay](ponyplay.md)
