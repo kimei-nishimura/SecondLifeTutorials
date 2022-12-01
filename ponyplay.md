@@ -8,6 +8,10 @@ Ponies can participate in training and events such as slalom, pulling a cart, pl
 
 The list of stables below is by no means complete, and is compiled from the author's personal experiences visiting and exploring.  Stables come and go in Second Life, some are public while others are private, and often they are only occupied during the EU day and evening hours.  There are a few stables that are active at other times though.
 
+## Ponyplay references
+
+* [![Pony Sounds](ponysounds.md)]
+
 ## Known "human pony" stables in Second Life
 
 ### *(in no particular order)*
