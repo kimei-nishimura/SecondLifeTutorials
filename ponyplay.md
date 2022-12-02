@@ -11,6 +11,8 @@ The list of stables below is by no means complete, and is compiled from the auth
 ## Ponyplay references
 
 * [![Pony Sounds](ponysounds.md)]
+* [![Ralna's Pony Page](https://ralnasponypage.wordpress.com/)]
+* [![SL PonyPlay](https://slponyplay.com/)] (Not really active or updated now)
 
 ## Known "human pony" stables in Second Life
 
