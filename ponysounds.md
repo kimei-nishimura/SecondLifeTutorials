@@ -4,22 +4,22 @@
 
 ### happy
 
-whinny:    greeting, excited/happy
-nicker:     content, purr, amusement, giggle
+* whinny:    greeting, excited/happy
+* nicker:     content, purr, amusement, giggle
 
 ### not-happy
 
-neigh:      need something, confused, unsure
-snort:      tired, unhappy, rather not obey
+* neigh:      need something, confused, unsure
+* snort:      tired, unhappy, rather not obey
 
 ### warnings
 
-squeal:     extreme distress, pain
+* squeal:     extreme distress, pain
 
 ### not for use with trainers
 
-sigh:       back off, use with other ponies
-scream:  angry, about to fight
+* sigh:       back off, use with other ponies
+* scream:  angry, about to fight
 
 The sounds are generally divided into 'happy,' 'not-happy,' and warning sounds.
 
