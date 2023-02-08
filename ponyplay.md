@@ -26,15 +26,15 @@ The list of stables below is by no means complete, and is compiled from the auth
 | 8 Pines | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Hidden%20Isle/203/101/34) | |
 | Bridled by Force | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Gordburg/13/134/23) | |
 | Amigo Ponygirls | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Thunder%20Hallows/103/56/23) | |
-| Darkwing | [![LM link](assets/loc-pin.jpg)](null) | |
+| Devon<br />(Darkwing Barn and Sunstone Ranch) | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Devon%20Dream/169/147/2003) | |
 | Frilly Filly Farm (FFF) | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Bulgogi/102/158/86) | |
 | Wild Ponygirls | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/The%20Farthest%20Shore/127/121/22) | |
 | Rose Jewel Haven | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Coral%20Winds/245/227/19) | |
-| Broad Oak Stables| [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/DiLemma%20City/71/42/21) | |
+| Broad Oak Stables | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Borgatti/190/216/0) | |
 | Tearfall | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Tearfall/175/154/25) | |
 | Foret de Broceliande | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Broceliande/53/142/30) | |
 | Blackwood Dreams | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Blackwood%20Dreams/224/6/23) | |
-| Three Creek Country Club (formerly PPP) | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Sarahs%20Island/66/15/22) | |
+| Three Creek Country Club<br />(formerly Pretty Prancing Ponies) | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Sarahs%20Island/66/15/22) | |
 -----
 -----
 
