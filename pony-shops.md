@@ -18,3 +18,4 @@
 | Aurora | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Veles%202/128/171/21) | [![MP link](assets/globe-icon.jpg)](https://marketplace.secondlife.com/stores/217512/search?search%5Bkeywords%5D=pony) | |
 | \*KaS\* | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Sandor/91/161/37/) | [![MP link](assets/globe-icon.jpg)](https://marketplace.secondlife.com/stores/63888/) | |
 | Filly's Fashion | (none) | [![MP link](assets/globe-icon.jpg)](https://marketplace.secondlife.com/stores/235144/) | |
+| Wildside Enchantments | (none) | [![MP link](assets/globe-icon.jpg)](https://marketplace.secondlife.com/stores/214738) | Male fitted boots |
