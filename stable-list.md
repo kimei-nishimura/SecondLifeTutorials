@@ -6,7 +6,7 @@
 | Tall Tails | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Tall%20Tails%20Meadow/90/183/26) | <https://wiki.talltails.fun/> | |
 | Stones N Rubber (sNr) | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Kinky%20Magic/78/4/21) | <https://wiki.stonesnrubber.com/> | |
 | 8 Pines | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Hidden%20Isle/203/101/34) | | |
-| Bridled by Force | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Gordburg/13/134/23) | | |
+| Bridled by Force | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Gordburg/13/134/23) | <https://bridledbyforce.com/> | |
 | Amigo Ponygirls | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Thunder%20Hallows/103/56/23) | | |
 | Devon (Darkwing Barn and Sunstone Ranch) | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Devon%20Dream/169/147/2003) | | |
 | Frilly Filly Farm (FFF) | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Bulgogi/102/158/86) | | |
