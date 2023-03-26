@@ -17,5 +17,6 @@
 | Foret de Broceliande | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Broceliande/53/142/30) | | |
 | Blackwood Dreams | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Blackwood%20Dreams/224/6/23) | | |
 | Three Creek Country Club (formerly Pretty Prancing Ponies) | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Sarahs%20Island/66/15/22) | | |
+| DeFerre Pony Farm | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Jaraded/56/25/23) | | Rescue and rehoming of stray human ponies |
 
 _Note that this list is not complete, and only shows stables the author is aware of which are still active at the time of this writing._
