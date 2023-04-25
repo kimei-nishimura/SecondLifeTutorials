@@ -20,3 +20,4 @@
 | Filly's Fashion | (none) | [![MP link](assets/globe-icon.jpg)](https://marketplace.secondlife.com/stores/235144/) | |
 | Wildside Enchantments | (none) | [![MP link](assets/globe-icon.jpg)](https://marketplace.secondlife.com/stores/214738) | Male fitted boots |
 | [LiLiMD] Li Li's Monsta Designs | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Lorrey/211/192/2006) | [![MP link](assets/globe-icon.jpg)](https://marketplace.secondlife.com/stores/225096/search?utf8=%E2%9C%93&search%5Bcategory_id%5D=&search%5Bmaturity_level%5D=GMA&search%5Bkeywords%5D=pony) | |
+| :ravenoid: | (none) | [![MP link](assets/globe-icon.jpg)](https://marketplace.secondlife.com/stores/106474) | |
