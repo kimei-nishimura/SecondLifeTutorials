@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pony Shops
+---
+
 # Pony Gear Shops
 
 | Shop                   | Location | Marketplace | Notes |

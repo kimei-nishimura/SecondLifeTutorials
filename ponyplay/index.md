@@ -1,3 +1,7 @@
+---
+layout: default
+title: Pony Play
+---
 # Second Life Pony Play
 
 "Pony Play" in Second Life typically refers to the fetish of humans (or other anthropomorphic characters) taking on the role of a pony, by wearing appropriate tack (such as a bridle, hoof boots and hoof mitts or an armbinder) and behaving like a pony.  Some ponies go much further, using RLV to have their vision, hearing and speech restricted or even removed as they fulfill their fantasies.

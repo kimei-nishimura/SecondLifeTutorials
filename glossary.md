@@ -1,3 +1,8 @@
+---
+layout: default
+title: Glossary
+---
+
 # Glossary of terms used in Second Life
 
 - ***Viewer*** - Linden Labs' term for the client software, installed on your computer.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tutorials
+---
+
 # Getting started in Second Life - the BDSM primer
 
 ## The minimum basics

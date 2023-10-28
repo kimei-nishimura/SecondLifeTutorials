@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pony Stables
+---
+
 # Second Life Stables List
 
 | Stable | Location | Website | RLV | Notes |

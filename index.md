@@ -20,4 +20,4 @@ Download a client, create an account and come see what there is to do! From ques
 
 ## Specialty kinks
 
-- [Ponyplay](ponyplay.md)
+- [Ponyplay](ponyplay/index.md)

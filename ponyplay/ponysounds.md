@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pony Sounds
+---
+
 # Pony Sounds
 
 ## credit: Rebecca Astor - 2019
