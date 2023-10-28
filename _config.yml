@@ -2,3 +2,6 @@ title: Second Life Tutorials
 theme: just-the-docs
 
 url: https://kimei-nishimura.github.io/SecondLifeTutorials
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
