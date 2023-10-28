@@ -1,7 +1,7 @@
 # Second Life Stables List
 
 | Stable | Location | Website | RLV | Notes |
-| ------ | -------- | ------- | --- | ----- | 
+| ------ | -------- | ------- | --- | ----- |
 | Ponies from Space (PFS) | [![LM link](/assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Bella%20Amicizia/111/6/33) | <https://wiki.ponies-from.space/> | PFS Collar | |
 | Tall Tails | [![LM link](/assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Tall%20Tails%20Meadow/90/183/26) | <https://wiki.talltails.fun/> | Nose Ring | |
 | Stones N Rubber (sNr) | [![LM link](/assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Kinky%20Magic/78/4/21) | <https://wiki.stonesnrubber.com/> | Mare Control | |
