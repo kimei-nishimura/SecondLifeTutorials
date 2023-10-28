@@ -1,5 +1,7 @@
 .markdown.json
 .vscode/settings.json
+**/*.bak
+
 
 # Not sure what a .gitignore is?
 # See: https://git-scm.com/docs/gitignore

@@ -3,6 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 permalink: /
+has_children: true
 ---
 
 # Welcome to your Second Life!
@@ -14,7 +15,7 @@ Download a client, create an account and come see what there is to do! From ques
 ## Contents
 
 - [Glossary](glossary.md)
-- [Tutorial Introduction](tutorials/intro.md)
+- [Tutorial Introduction](tutorials/index.md)
 - [RLV and OpenCollar](tutorials/rlv-and-opencollar.md)
 - [Bodies and Heads](tutorials/body-and-head.md) - in progress
 
