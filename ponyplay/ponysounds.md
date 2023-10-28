@@ -2,6 +2,7 @@
 layout: default
 title: Pony Sounds
 parent: ponyplay
+nav_order: 1
 ---
 
 # Pony Sounds
