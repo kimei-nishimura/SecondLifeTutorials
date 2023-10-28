@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Pony Play
+title: ponyplay
+parent: Home
+has_children: true
 ---
 # Second Life Pony Play
 

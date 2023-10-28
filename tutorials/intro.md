@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tutorials
+parent: Home
+has_children: true
 ---
 
 # Getting started in Second Life - the BDSM primer

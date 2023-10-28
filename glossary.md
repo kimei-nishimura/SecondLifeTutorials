@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Glossary
+nav_order: 2
 ---
 
 # Glossary of terms used in Second Life

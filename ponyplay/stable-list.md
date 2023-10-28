@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pony Stables
+parent: ponyplay
 ---
 
 # Second Life Stables List

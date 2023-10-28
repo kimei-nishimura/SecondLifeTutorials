@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pony Sounds
+parent: ponyplay
 ---
 
 # Pony Sounds

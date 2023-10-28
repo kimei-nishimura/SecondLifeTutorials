@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pony Shops
+parent: ponyplay
 ---
 
 # Pony Gear Shops
