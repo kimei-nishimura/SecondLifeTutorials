@@ -4,7 +4,6 @@ title: Pony Shops
 parent: ponyplay
 nav_order: 2
 ---
-
 # Pony Gear Shops
 
 | Shop                   | Location | Marketplace | Notes |

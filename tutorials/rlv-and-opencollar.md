@@ -4,7 +4,6 @@ title: RLV
 parent: Tutorials
 nav_order: 1
 ---
-
 # RLV and OpenCollar
 
 To take full advantage of the ability to do fetish play in Second Life, you need both a ***client (also called a viewer)*** that supports RLV, and in-game you need to have an ***RLV Relay***.  Relays can be built into many objects, including HUDs (objects that attach to your screen) or objects you wear like a collar or a ring.

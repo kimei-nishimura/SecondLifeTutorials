@@ -4,7 +4,6 @@ title: Pony Stables
 parent: ponyplay
 nav_order: 3
 ---
-
 # Second Life Stables List
 
 | Stable | Location | Website | RLV | Notes |
