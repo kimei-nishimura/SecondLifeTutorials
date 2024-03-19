@@ -32,6 +32,7 @@ nav_order: 3
 | Darkwatch Stables and Kennels | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Doi/221/62/68) | | | |
 | Hold Me Tight Carriage House and Pony Stables | [![LM link](assets/loc-pin.jpg)](https://maps.secondlife.com/secondlife/Coralia/31/191/41) | | | |
 | Rinasciata Pony Club - Portus Desolo | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Fenice/65/96/1001) | | | |
+| Windstar Estate | [![LM link](assets/loc-pin.jpg)](http://maps.secondlife.com/secondlife/Highlander/141/213/83) | | | |
 
 _Note that this list is not complete, and only shows stables the author is aware of which are still active at the time of this writing._
 
