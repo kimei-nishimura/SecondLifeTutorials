@@ -13,11 +13,11 @@ Download a client, create an account and come see what there is to do! From ques
 
 ## Contents
 
-- [Glossary](glossary.md)
-- [Tutorial Introduction](tutorials/index.md)
-- [RLV and OpenCollar](tutorials/rlv-and-opencollar.md)
-- [Bodies and Heads](tutorials/body-and-head.md) - in progress
+- [Glossary](glossary.html)
+- [Tutorial Introduction](tutorials/index.html)
+- [RLV and OpenCollar](tutorials/rlv-and-opencollar.html)
+- [Bodies and Heads](tutorials/body-and-head.html) - in progress
 
 ## Specialty kinks
 
-- [Ponyplay](ponyplay/index.md)
+- [Ponyplay](ponyplay/index.html)
